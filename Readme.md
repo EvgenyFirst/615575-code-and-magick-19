@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Чиликов](https://up.htmlacademy.ru/javascript/19/user/615575).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
